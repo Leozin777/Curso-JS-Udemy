@@ -1,0 +1,15 @@
+let string = "um \"texto\""
+
+//console.log(string.charAt(2))
+//console.log(string.concat(' um lindo dia'))
+//console.log(string.indexOf('texto'))
+//console.log(string.lastIndexOf('o'))
+//console.log(string.match(/[a-z]/))
+//console.log(string.search(/t/))
+//console.log(string.replace(/t/g, '#'))
+//console.log(string.length)
+//console.log(string.slice(0,2))
+//console.log(string.substring(string.length - 5, string.length -1))
+//console.log(string.split(' '))
+console.log(string.toLowerCase())
+console.log(string.toUpperCase())
